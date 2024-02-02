@@ -6,3 +6,12 @@ As a data scientist at BA, it will be your job to apply your analytical skills t
 Customers who book a flight with BA will experience many interaction points with the BA brand. Understanding a customer's feelings, needs, and feedback is crucial for any business, including BA.
 
 This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
+
+
+British Airways Data Science Job Simulation on Forage - February 2024
+
+ * Completed a simulation focussing on how data science is a critical component
+   of British Airways success
+ * Scraped and analysed customer review data to uncover findings
+ * Built a predictive model to understand factors that influence buying
+   behaviour
