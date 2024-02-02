@@ -30,7 +30,7 @@ Doing this programme confirmed that I really enjoy working with data to provide
 business insights and I'm excited to apply these skills on a Data Science team
 at a company like British Airways.
 
-SKILLS
+SKILLS->
 Data Manipulation
 Data Science
 Data Visualisation
