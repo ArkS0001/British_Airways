@@ -29,3 +29,5 @@ communication skills by presenting insights a real-world context.
 Doing this programme confirmed that I really enjoy working with data to provide
 business insights and I'm excited to apply these skills on a Data Science team
 at a company like British Airways.
+
+<a href="#" class="button">Certificate (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_eXRWcTEXNJaD4M4E2_1706869154964_completion_certificate.pdf)</a>
